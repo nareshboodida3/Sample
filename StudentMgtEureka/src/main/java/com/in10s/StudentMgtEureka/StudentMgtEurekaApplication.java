@@ -11,7 +11,7 @@ public class StudentMgtEurekaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StudentMgtEurekaApplication.class, args);
 	}
-
+//Comments added by Naresh for initial test
 }
 
 
